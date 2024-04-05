@@ -1,0 +1,37 @@
+[
+	{
+	   "name":"HONOR Magic V2 5G",
+	   "image":"https://m.media-amazon.com/images/I/71Vx-LXHlhL._AC_SX679_.jpg",
+	   "price":"€ 1.499,99",
+	   "description":"Smartphone Pieghevole Dual SIM NFC,16GB RAM 512GB Memoria, Display Dynamic OLED 6,43'/7,92 120Hz telefono, 5000 mAh, Snapdragon 8 Gen 2, Android 13",
+	   "availability":"3"
+	},
+	{
+	   "name":"Google Pixel 8 Pro",
+	   "image":"https://m.media-amazon.com/images/I/71DHKipDoHL._AC_SX679_.jpg",
+	   "price":"€ 939,00",
+	   "description":"Smartphone Android sbloccato con teleobiettivo, batteria con 24 ore di autonomia e display Super Actua - Grigio creta, 256GB",
+	   "availability":"5"
+	},
+	{
+	   "name":"Apple iPhone 15 Pro Max",
+	   "image":"https://m.media-amazon.com/images/I/81izs2I2UvL._AC_SX679_.jpg",
+	   "price":"€ 1.299,00",
+	   "description":"256 GB - Titanio",
+	   "availability":"4"
+	},
+	{
+	   "name":"Galaxy S23",
+	   "image":"https://m.media-amazon.com/images/I/519nePwnpIL._AC_SX679_.jpg",
+	   "price":"€ 539,87",
+	   "description":"SAMSUNG SM-S911BZKDEUB Galaxy S23 sbloccato Black 128GB Phantom Black",
+	   "availability":"1"
+	},
+	{
+	   "name":"Apple Watch",
+	   "image":"https://m.media-amazon.com/images/I/71AC62lu3NL._AC_SX679_.jpg",
+	   "price":"€ 246,65",
+	   "description":"Apple Watch Series 5 40mm (GPS + Cellular) - Cassa In Alluminio Color Oro Con Cinturino Sport Rosa Sabbia (Ricondizionato)",
+	   "availability":"2"
+	}
+]
